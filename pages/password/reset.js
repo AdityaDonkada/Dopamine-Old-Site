@@ -9,7 +9,7 @@ export default function index() {
     <>
       <Head>
         <meta name='robots' content='index' />
-        <title>Forgot Password - Split</title>
+        <title>Forgot Password - Project Dopamine</title>
       </Head>
 
       <div className='w-full h-screen flex flex-col items-center justify-center px-4'>

@@ -45,7 +45,7 @@ const Features = () => {
                         make your website in front of more people
                     </h2>
                     <p className="mt-3">
-                        split is a new, revolutionary way to generate website traffic. We offer a variety of packages to suit your needs.
+                        Project Dopamine is a new, revolutionary way to generate website traffic. We offer a variety of packages to suit your needs.
                     </p>
                 </div>
                 <div className="mt-12 lg:mt-0">

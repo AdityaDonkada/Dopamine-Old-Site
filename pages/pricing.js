@@ -9,7 +9,7 @@ export default function index() {
     <>
       <Head>
         <meta name='robots' content='index' />
-        <title>Pricing - Split</title>
+        <title>Pricing - Project Dopamine</title>
       </Head>
       <Navbar />
       <Pricing />

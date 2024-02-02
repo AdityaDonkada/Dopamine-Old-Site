@@ -12,7 +12,7 @@ const CTA = () => {
                         Simple, powerful ways to increase website users
                     </h2>
                     <p className="text-gray-600">
-                        Split is a new, revolutionary & cost-effective way to grow your website's traffic. It's a super-simple, one-time fee that will make your site rank higher on Google and bring in more visitors. We're so confident, we offer a 100% money back guarantee.
+                        Project Dopamine is a new, revolutionary & cost-effective way to grow your website's traffic. It's a super-simple, one-time fee that will make your site rank higher on Google and bring in more visitors. We're so confident, we offer a 100% money back guarantee.
                     </p>
                     <div className="pt-1">
                         <NavLink

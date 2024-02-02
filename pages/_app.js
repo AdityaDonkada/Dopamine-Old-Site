@@ -5,7 +5,7 @@ export default function App({ Component, pageProps }) {
   return (
     <main>
       <Head>
-        <title>Split</title>
+        <title>Project Dopamine</title>
         <meta
           name='description'
           content='The ultimate way to get more website traffic and grow your online business.'
